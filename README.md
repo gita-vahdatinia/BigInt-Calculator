@@ -9,7 +9,7 @@ man -s 1 dc
 ```
 Performs the following dc commands: 
 ```
-+-*/%^cdfpq
++ - * / % ^ c d f p q
 ```
 ## To Run 
 
@@ -20,9 +20,11 @@ ydc
 
 ## Files
 Major implementations in these files: 
+```
 ubigint.cpp
 ubigint.h
 bigint.cpp
 bigint.h
 main.cpp
 Makefile
+```
